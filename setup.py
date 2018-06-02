@@ -6,7 +6,7 @@ setup(
     name='slack-asyncio',
     description='Slack bot and API library using asyncio',
     url='https://github.com/chriskuehl/slack-asyncio',
-    version='0.0.0',
+    version='0.0.1',
 
     author='Chris Kuehl',
     author_email='ckuehl@ckuehl.me',
